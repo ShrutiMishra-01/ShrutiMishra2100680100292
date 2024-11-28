@@ -1,0 +1,3 @@
+Longest Compound Word: ratcatdogcat
+Second Longest Compound Word: catsdogcats
+Processing time for file Input_01.txt: 7 milliseconds
